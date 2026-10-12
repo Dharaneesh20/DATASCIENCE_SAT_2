@@ -1,0 +1,121 @@
+connection,type,locality,household_size_band
+CON-001,Residential,Riverside,Large
+CON-002,Residential,Central Ward,Medium
+CON-003,Residential,Green Valley,Small
+CON-004,Residential,Green Valley,Large
+CON-005, residential,Highland Park,Medium
+CON-006,Residential,Green Valley,Large
+CON-007,Residential,Central Ward,Small
+CON-008,Residential,Green Valley,Small
+CON-009,Residential,Riverside,Medium
+CON-010,Residential,Riverside,Small
+CON-011,Residential,Highland Park,Small
+CON-012,Residential,Green Valley,Medium
+CON-013,Residential,Riverside,Medium
+CON-014,Residential,Green Valley,Medium
+CON-015,Residential,Highland Park,Small
+CON-016,Residential,Highland Park,Small
+CON-017,Residential,Green Valley,Large
+CON-018,Residential,Central Ward,Large
+CON-019,Residential ,Riverside,Small
+CON-020,Residential,Highland Park,Medium
+CON-021,Residential,Green Valley,Medium
+CON-022,Residential,Green Valley,Large
+CON-023,Residential,Green Valley,Medium
+CON-024,Residential,Riverside,Medium
+CON-025,Residential,Highland Park,Small
+CON-026,Residential,Central Ward,Medium
+CON-027,Residential,Central Ward,Large
+CON-028,Residential,Highland Park,Large
+CON-029,Residential,Green Valley,Small
+CON-030,Residential,Green Valley,Medium
+CON-031,Residential,Riverside,Small
+CON-032,Residential,Central Ward,Medium
+CON-033,Residential,Green Valley,Medium
+CON-034,Residential,Green Valley,Large
+CON-035,Residential,Green Valley,Large
+CON-036,RESIDENTIAL,Central Ward,Small
+CON-037,Residential,Green Valley,Large
+CON-038,Residential,Highland Park,Medium
+CON-039,Residential,Central Ward,Small
+CON-040,Residential,Riverside,Small
+CON-041,Residential,Central Ward,Medium
+CON-042,Residential,Riverside,Small
+CON-043,Residential,Riverside,Medium
+CON-044,Residential,Central Ward,Medium
+CON-045,Residential,Central Ward,Medium
+CON-046,Residential,Green Valley,Medium
+CON-047,Residential,Central Ward,Medium
+CON-048,Residential,Central Ward,Medium
+CON-049,Residential,Highland Park,Medium
+CON-050,Residential,Green Valley,Small
+CON-051,Residential,Green Valley,Medium
+CON-052,Residential,Riverside,Medium
+CON-053,Residential,Central Ward,Small
+CON-054,Residential,Riverside,Medium
+CON-055,Residential,Green Valley,Small
+CON-056,Residential,Green Valley,Small
+CON-057,Residential,Central Ward,Large
+CON-058,Residential,Highland Park,Large
+CON-059,Residential,Central Ward,Small
+CON-060,Residential,Central Ward,Medium
+CON-061,Residential,Central Ward,Large
+CON-062,Residential,Riverside,Small
+CON-063, residential ,Green Valley,Medium
+CON-064,Residential,Central Ward,Large
+CON-065,Residential,Green Valley,Medium
+CON-066,Residential,Riverside,Small
+CON-067,Residential,Green Valley,Medium
+CON-068,Residential,Central Ward,Medium
+CON-069,Residential,Riverside,Medium
+CON-070,Residential,Riverside,Large
+CON-071,Residential,Central Ward,Small
+CON-072,Residential,Riverside,Medium
+CON-073,Residential,Green Valley,Small
+CON-074,Residential,Highland Park,Medium
+CON-075,Residential,Green Valley,Small
+CON-076,Residential,Central Ward,Small
+CON-077,Residential,Green Valley,Medium
+CON-078,Residential,Central Ward,Small
+CON-079,Residential,Highland Park,Medium
+CON-080,Commercial ,Green Valley,Medium
+CON-081,Residential,Riverside,Medium
+CON-082,Residential,Highland Park,Medium
+CON-083,Residential,Green Valley,Large
+CON-084,Residential,Riverside,Small
+CON-085,Residential,Green Valley,Medium
+CON-086,Residential,Highland Park,Small
+CON-087,Residential,Riverside,Small
+CON-088,Residential,Highland Park,Small
+CON-089,Residential,Highland Park,Medium
+CON-090,Residential,Central Ward,Small
+CON-091,Residential,Riverside,Small
+CON-092,Residential,Central Ward,Large
+CON-093,Residential,Green Valley,Medium
+CON-094,Residential,Central Ward,Medium
+CON-095,Residential,Highland Park,Small
+CON-096,Residential,Green Valley,Large
+CON-097,Commercial,Industrial Zone,Not Applicable
+CON-098,Commercial,Metro Square,Not Applicable
+CON-099,COMMERCIAL,Metro Square,Not Applicable
+CON-100,Commercial,Metro Square,Not Applicable
+CON-101,Commercial,Industrial Zone,Not Applicable
+CON-102,Commercial,Industrial Zone,Not Applicable
+CON-103,Commercial,Industrial Zone,Not Applicable
+CON-104,Commercial,Industrial Zone,Not Applicable
+CON-105,Commercial,Metro Square,Not Applicable
+CON-106,Commercial,Riverside,Not Applicable
+CON-107,Commercial,Central Ward,Not Applicable
+CON-108, commercial,Industrial Zone,Not Applicable
+CON-109,Commercial,Metro Square,Not Applicable
+CON-110,Commercial,Riverside,Not Applicable
+CON-111,Commercial,Riverside,Not Applicable
+CON-112,Commercial,Industrial Zone,Not Applicable
+CON-113,Commercial,Riverside,Not Applicable
+CON-114,Commercial,Central Ward,Not Applicable
+CON-115,Commercial,Metro Square,Not Applicable
+CON-116, commercial ,Industrial Zone,Not Applicable
+CON-117,Commercial,Industrial Zone,Not Applicable
+CON-118,Commercial,Metro Square,Not Applicable
+CON-119,Commercial,Industrial Zone,Not Applicable
+CON-120,Commercial,Metro Square,Not Applicable
